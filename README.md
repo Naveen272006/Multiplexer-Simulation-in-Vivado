@@ -178,7 +178,8 @@ module multiplexer_tb;
     $finish;
   end
 endmodule
-OUTPUT:![TESTBENCH MUX](https://github.com/user-attachments/assets/715f3b6f-cbd6-4d6f-99ba-4578d620c3ea)
+OUTPUT:![TESTBENCH](https://github.com/user-attachments/assets/0512f84b-0ef7-4b77-b6ba-84f7dadadabc)
+
 
 ## CONCLUSION:
 
