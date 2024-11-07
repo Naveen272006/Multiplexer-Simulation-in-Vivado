@@ -99,7 +99,8 @@ endmodule
 ~~~
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/668883f5-f6b9-4561-8763-b0a310d6df1f)
+![mux data flow](https://github.com/user-attachments/assets/4a2c67b9-469f-42ee-ac96-3a16567942dd)
+
 
 # 4:1 MUX BEHAVIOURAL IMPLEMENTATION:
 
