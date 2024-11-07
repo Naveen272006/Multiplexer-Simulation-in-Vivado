@@ -124,7 +124,8 @@ endmodule
 ~~~
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/030f0dd3-a47f-4429-86d1-8dddfd794334)
+![mux behaviour](https://github.com/user-attachments/assets/2ede68d9-17c5-4cd0-a9ce-7189810e6c49)
+
 
 
 # 4:1 MUX STRUCTURAL IMPLEMENTATION:
