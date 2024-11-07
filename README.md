@@ -144,7 +144,8 @@ endmodule
 
 ~~~
 
-# OUTPUT:![image](https://github.com/user-attachments/assets/79caf296-38a9-4eb1-abe1-061202ce8a8f)
+# OUTPUT:![mux structural](https://github.com/user-attachments/assets/e9ab4b35-43b9-47eb-b99d-fb65eff48f73)
+
 TESTBENCH:
 module multiplexer_tb;
   // Declare inputs as reg and outputs as wire
