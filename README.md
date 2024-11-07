@@ -81,7 +81,8 @@ endmodule
 ~~~
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/10673b50-3ab6-432b-8e5b-fd7f45d7ce1c)
+![mux gate level new](https://github.com/user-attachments/assets/3fdf81e9-e26a-4d68-b04c-82a3254f10b2)
+
 
 # 4:1 MUX DATA FLOW IMPLEMENTATION:
 ~~~
