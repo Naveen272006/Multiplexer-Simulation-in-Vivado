@@ -244,6 +244,8 @@ module mux4_to_1_tb;
     end
 endmodule
 
+OUTPUT:![TESTBENCH](https://github.com/user-attachments/assets/c5b5732e-3db6-451e-b1ae-34f7d76059c9)
+
 
 Sample Output
 
